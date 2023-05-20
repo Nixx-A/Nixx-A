@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 **Nixx-A/Nixx-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<iframe src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/this-is-fine-QMHoU66sBXqqLqYvGO">via GIPHY</a></p>
+![giphy](https://github.com/Nixx-A/Nixx-A/assets/71731922/f4f6cebd-1d97-429b-803f-468f26854eb1)
