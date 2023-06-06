@@ -39,12 +39,6 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nixx-A&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
-
 <br/>  
 
 
