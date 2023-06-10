@@ -9,7 +9,7 @@
 ### **<div align="center">I'm Nico, a full-time FrontEnd developer 👨‍💻 </div>**  
   
 
-- *🌱 I’m currently learning Nextjs and Nodejs  
+- *🌱 I’m currently learning Nextjs 13 and Nodejs  
   
 
 - *❓ Ask me about anything related to FrontEnd development*  
