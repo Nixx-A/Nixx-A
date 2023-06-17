@@ -6,7 +6,7 @@
 </div>  
   
 
-### **<div align="center">I'm Nico, a full-time FrontEnd developer 👨‍💻 </div>**  
+### **<div align="center">I'm Nico, a FrontEnd developer 👨‍💻 </div>**  
   
 
 - *🌱 I’m currently learning Typescript and Nodejs  
