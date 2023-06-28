@@ -11,8 +11,6 @@
 
 - *🌱 I’m currently learning Typescript and Nodejs  
   
-
-- *❓ Ask me about anything related to FrontEnd development*  
   
 
 - ⚡ Random Fact: I ❤️ Coffe  
