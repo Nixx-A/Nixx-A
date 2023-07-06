@@ -9,7 +9,7 @@
 ### **<div align="center">I'm Nico, a FrontEnd developer 👨‍💻 </div>**  
   
 
-- *🌱 I’m currently learning Typescript and Nodejs  
+- *🌱 I’m currently learning Typescript, Nodejs and Express  
   
   
 
