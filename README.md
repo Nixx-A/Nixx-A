@@ -10,9 +10,6 @@
   
 
 - *🌱 I’m currently learning MySql and Express
-  
-  
-
 - ⚡ Random Fact: I ❤️ Coffe  
   
 
