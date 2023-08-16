@@ -9,7 +9,7 @@
 ### **<div align="center">I'm Nico, a FrontEnd developer, learning to be a Full-stack developer 👨‍💻 </div>**  
   
 
-- *🌱 I’m currently learning MySql and Express
+- *🌱 I’m currently learning Docker and Kubernetes
 - ⚡ Random Fact: I ❤️ Coffe  
   
 
