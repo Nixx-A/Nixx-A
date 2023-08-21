@@ -10,7 +10,7 @@
   
 
 - *🌱 I’m currently working as Full-Stack developer
-- ⚡ Random Fact: I ❤️ Coffe  
+- ⚡ Random Fact: I ❤️ Coffe and dogs
   
 
 <br/>  
