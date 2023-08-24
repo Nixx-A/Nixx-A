@@ -10,6 +10,7 @@
   
 
 - *🌱 I’m currently working as Full-Stack developer
+- *📕learning Nextjs
 - ⚡ Random Fact: I ❤️ Coffe and dogs
   
 
