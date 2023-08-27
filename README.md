@@ -6,7 +6,7 @@
 </div>  
   
 
-### **<div align="center">I'm Nico, a FrontEnd developer, learning to be a Full Stack developer 👨‍💻 </div>**  
+### **<div align="center">I'm Nico, a Full Stack developer 👨‍💻 </div>**  
   
 
 - *🌱 I’m currently working as Full-Stack developer
