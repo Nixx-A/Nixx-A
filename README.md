@@ -9,7 +9,7 @@
 ### **<div align="center">I'm Nico, a Full Stack developer 👨‍💻 </div>**  
   
 
-- *🌱 I’m currently working as Full-Stack developer
+- *🌱 I’m currently working as Full-Stack developer and always learning
 - *📕learning Nextjs and graphQL
 - ⚡ Random Fact: I ❤️ Coffe and dogs
   
