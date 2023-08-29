@@ -11,7 +11,7 @@
 
 - *🌱 I’m currently working as Full-Stack developer and always learning
 - *📕learning Nextjs and graphQL
-- ⚡ Random Fact: I ❤️ Coffe and dogs
+- ⚡ Random Fact: I ❤️ Coffe 
   
 
 <br/>  
