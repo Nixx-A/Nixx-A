@@ -1,6 +1,6 @@
 
 
-### Hii! 👋  
+### Hi! 👋  
 <div align="center">
 <img src="https://github.com/Nixx-A/Nixx-A/assets/71731922/f4f6cebd-1d97-429b-803f-468f26854eb1" align="center" style="width: 60%" />
 </div>  
