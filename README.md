@@ -10,7 +10,7 @@
   
 
 - *🌱 I’m currently working as Full-Stack developer and always learning
-- *📕learning Nextjs and graphQL
+- *📕learning Nextjs 
 - ⚡ Random Fact: I ❤️ Coffe 
   
 
