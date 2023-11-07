@@ -10,7 +10,7 @@
   
 
 - *🌱 I’m currently working as Full-Stack developer and always learning
-- *📕learning by doing projects
+- *📕Learning with projects
 - ⚡ Random Fact: I ❤️ Coffe 
   
 
